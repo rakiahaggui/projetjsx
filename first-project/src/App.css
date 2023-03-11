@@ -1,0 +1,18 @@
+
+
+.App {
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  background-color:beige;
+}
+img{
+  border-radius: 20 px;
+  
+}
+h1{
+  color:rgb(0, 179, 255);
+}
+h2{
+  color:rgb(0, 179, 255);
+}
